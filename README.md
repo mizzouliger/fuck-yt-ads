@@ -1,4 +1,4 @@
-# fuck-yt-ads
+# yt-ads
 Wanna auto skip yt ads
 
 This should work for both chromium based browsers and firefox(ensure the processor version and the binary of the browser are the same. 
